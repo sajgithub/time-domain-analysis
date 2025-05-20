@@ -1,0 +1,1 @@
+A time domain analysis program made using C and Python, which can take a sound and make a chart based on it's frequency. Added options to see the sound's anvelope and apply different filters such as Chebyshev, Butterworth, which could be expanded further.
